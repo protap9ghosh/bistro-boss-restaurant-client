@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.drawer-side a:hover {
+   color: white;
+   transition: .3s;
+}
+
+.drawer-side a {
+   background-color: transparent;
+}
